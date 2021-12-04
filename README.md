@@ -21,3 +21,8 @@ This repository consists materials for a 3-day Python+Spark+PySpark course.
 # References
 - [Excellent writeup of PySpark with cheatsheets](https://runawayhorse001.github.io/LearningApacheSpark/preface.html)
 - [End-to-end ML pipeline (for the advanced and impatient)](https://github.com/colbyford/PyDataCLT_Jan2020)
+- [Microsoft Learning Labs, Databricks Intro](https://github.com/MicrosoftLearning/databricks-intro)
+- [Microsoft Learning Labs, Databricks ML](https://github.com/MicrosoftLearning/databricks-ml)
+- [Physical Plans in Spark (talk)](https://www.youtube.com/watch?v=99fYi2mopbs)
+- [Query plans in Spark](https://towardsdatascience.com/mastering-query-plans-in-spark-3-0-f4c334663aa4)
+- [SparkSQL vs PySpark (probably outdated)](https://community.cloudera.com/t5/Community-Articles/Spark-RDDs-vs-DataFrames-vs-SparkSQL/ta-p/246547)
