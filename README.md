@@ -7,16 +7,18 @@ This repository consists materials for a 3-day Python+Spark+PySpark course.
 
 
 ## Day 1
-- Intro to Python 
-- Spark Overview
+- Intro to Python. 
+- Spark Overview.
 
 ## Day 2
-- Databricks Overview
-- Querying data in Databricks
+- Databricks Overview.
+- Querying data in Databricks.
+- PySpark.
+- Data Manipulation Exercises.
 
 ## Day 3
-- MLlib
-- Spark Performance Tuning
+- Spark Performance Tuning.
+- Machine Learning with MLlib.
 
 # References
 - [Excellent writeup of PySpark with cheatsheets](https://runawayhorse001.github.io/LearningApacheSpark/preface.html)
