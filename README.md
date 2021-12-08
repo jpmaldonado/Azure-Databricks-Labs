@@ -27,4 +27,5 @@ This repository consists materials for a 3-day Python+Spark+PySpark course.
 - [Microsoft Learning Labs, Databricks ML](https://github.com/MicrosoftLearning/databricks-ml)
 - [Physical Plans in Spark (talk)](https://www.youtube.com/watch?v=99fYi2mopbs)
 - [Query plans in Spark](https://towardsdatascience.com/mastering-query-plans-in-spark-3-0-f4c334663aa4)
+- [Apache Spark Performance Boosting](https://towardsdatascience.com/apache-spark-performance-boosting-e072a3ec1179)
 - [SparkSQL vs PySpark (probably outdated)](https://community.cloudera.com/t5/Community-Articles/Spark-RDDs-vs-DataFrames-vs-SparkSQL/ta-p/246547)
